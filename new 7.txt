@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+ <meta charset="UTF-8"> 
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ <title>Personal Portfolio</title> 
+ <link rel="stylesheet" href="styles.css">
+ </head> <body> <header>
+ <h1>HELLO WELCOME</h1>
+ <nav> <ul>
+ <li><a href="index.html">Home</a></li>
+ 
+ </nav> 
+ </header> 
+ <section id="about"> 
+ <h3>About Me</h3> 
+<p>DILRUKSHI DIYALAWATTA</p> 
+ <p>TP:- 071######## (watsapp)</p> 
+ <p>email :- wdiyalawatt@gmail.com</p> 
+  <p>"As a budding web developer, I'm excited to bring my creativity and problem-solving skills to the digital world. With a solid foundation in HTML, CSS, and JavaScript, I'm eager to build responsive and user-friendly websites. I'm constantly learning and improving my skills to deliver high-quality web solutions." </p> 
+ 
+ 
+  
+ <h3>project
+ 
+ <button onclick="window.open('resume.pdf')"> project </button>
+ <nav>
+ 
+ 
+ </h3> 
+ 
+ 
+ 
+ <footer> 
+ <button onclick="window.open('resume.pdf')">Download Resume </button>
+ <nav>
+<ul>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="resume.html">Resume</a></li>
+</ul>
+</nav>
