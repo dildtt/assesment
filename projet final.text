@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+
+</style>
+	
+	 
+	
+	
+	
+	
+	
+	
+
+<br>
+<br>
+<center>
+<button> Home </button>
+ 
+<button> Project </button>
+ 
+<button> Resume </button>
+</center>
+
+
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Project</title>
+    <!-- Link to external CSS file -->
+   
+</head>
+<body>
+    <!-- Header section -->
+    <header>
+        <h1>Welcome to my project!</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#home">home</a>
+            <a href="#resume">resume</a>
+        </nav>
+    </header>
+
+    <!-- Main content section -->
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p> p>
+        </section>
+
+        <section id="projects">
+            <h2>My Projects</h2>
+            <ul>
+                <li>Project 1: A simple webpage.</li>
+                <li>Project 2: A login form.</li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <p>&copy; 2025 My Projects</p>
+    </footer>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js
+
+
+
+
+
+
+</head>
+
+<body>
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+</body>
+</html>
+  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<br>
+<br>
+<br>
+<footer> 
+ <button onclick="window.open('resume.pdf')">Download Resume </button>
+ <nav>
+<ul>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="resume.html">Resume</a></li>
+</ul>
+</nav>
+
+
+
+</body>
+</html>
