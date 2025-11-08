@@ -29,11 +29,7 @@
 <body>
     <header>
         <h1>Your Full Name</h1>
-		<br>
-		<img src="C:\Users\PCSB\Desktop\Assesement web page js edit\pages\img/img5.png" width="600px" height="150px" >  
-		
-		
-        <p>Email: your. wdiyalawatta@gmail.com | Contact: (071) 610-5601|  </p>
+        <p>Email: your.email@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile</p>
     </header>
 
     <section id="summary">
@@ -87,27 +83,11 @@
         <ul>
             <li>
                 <h3>Project Name</h3>
-                <p>Assessment .</p>
+                <p>Brief description of the project and your role. Highlight any HTML elements or structures you created.</p>
             </li>
             <!-- Add more project entries as needed -->
         </ul>
     </section>
-	
-	
-	
-	
-
-
-<button>
-<a
-class="ripple-button"
-href="C:\Users\PCSB\Desktop\Assesement web page js edit\pages\cv/dilrukshi.html"
-dowuload="cv/dilrukshi">
-MY CV
-</a>
-</button>
-
-
 
     <footer>
         <p>&copy; 2025 Your Full Name. All rights reserved.</p>
